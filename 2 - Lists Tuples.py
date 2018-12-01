@@ -104,3 +104,4 @@ print(dictSquares)
 # delete entire dictionary
 del dictSquares
 print(dictSquares)
+
